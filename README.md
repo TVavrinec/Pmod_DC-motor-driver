@@ -4,3 +4,5 @@ This boart us [DRV8833](https://www.ti.com/lit/ds/symlink/drv8833.pdf?ts=1706616
 
 ![Espressif Systems](docs/F-render.png)
 ![Espressif Systems](docs/B-render.png)
+
+The power ENC jumper serves as an option to disconnect the 5V power supply from the motor connector for ENCs that are not 5V tolerant. In normal mode you need to connect a jumper.
